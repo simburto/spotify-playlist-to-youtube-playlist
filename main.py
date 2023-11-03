@@ -72,7 +72,7 @@ def spotify():
 def youtube(name, artist, playlistname):
 
   # Prompt OAUTH
-  os.system('.\ytmusicapi oauth')
+  os.system('./ytmusicapi oauth')
   ytmusic = YTMusic("oauth.json")
 
   # Find playlist ID from a given query

@@ -11,3 +11,5 @@ Adds songs from a spotify playlist to a youtube music playlist
 API_KEY = 'your api key here'
 API_SECRET= 'your api secret here'
 ```
+7. Move ytmusicapi.exe from ```AppData\Local\Packages\(your python version)\LocalCache\local-packages\(your python version)\Scripts``` to the same folder as ```main.py```
+8. Run through Python 3.11 (NOT THROUGH IDE)
